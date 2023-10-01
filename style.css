@@ -1,0 +1,55 @@
+body
+{
+    background-color: dodgerblue;
+}
+
+#objectid
+{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+#input
+{
+    margin-top:0px;
+    width:50%;
+    text-align: center;
+    height:50px;
+    font-size: large;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px yellow;
+}
+
+.heading 
+{
+font-size:23px;
+width:100%;
+margin:0px;
+
+}
+
+#status , #number_of_objects , #start
+{
+    font-size:18px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:chartreuse;
+    line-height:2;
+    text-align:center;
+    font-size: 20px;
+}
+
+canvas
+{
+    border:2px solid black;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow:5px 5px 5px white;
+    margin-top: 100px;
+}
